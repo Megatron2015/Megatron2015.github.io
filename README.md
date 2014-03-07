@@ -1,4 +1,4 @@
-ype html>
+<!doctype html>
 <html>
 <head>
 <title>Boxy html</title>
